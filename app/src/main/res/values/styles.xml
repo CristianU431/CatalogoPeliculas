@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@android:color/holo_orange_dark</item>
+        <item name="colorAccent">@android:color/holo_purple</item>
+    </style>
+
+    <style name="estiloCalificacion"
+           parent="android:style/Widget.Material.RatingBar.Indicator">
+    </style>
+
+</resources>
